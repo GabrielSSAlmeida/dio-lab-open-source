@@ -20,4 +20,5 @@
 
 ### Projeto Principal
 API desenvolvida na minha Iniciação Científica (2022-2023).
+
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=GabrielSSAlmeida&repo=chatbot_apiV2&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/GabrielSSAlmeida/chatbot_apiV2)
